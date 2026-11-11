@@ -1,0 +1,24 @@
+# 내부 문서 (GitHub에 올리지 않음)
+/*.md
+!/README.md
+제안서.md
+요약본.md
+요청서.md
+
+# 프로토타입 내부 자료 (시험 스크립트·검수 기록)
+/prototype/tests/
+/prototype/qa/
+/prototype/*.md
+!/prototype/README.md
+/prototype/assets/images/**/*.md
+/prototype/assets/images/*.md
+
+# 빌드·검증 스크립트
+build.py
+verify*.js
+verify*.cjs
+*.log
+
+# OS·편집기
+.DS_Store
+Thumbs.db
